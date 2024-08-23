@@ -4,3 +4,4 @@ dog
 goat  
 cow  
 giraffe  
+lion  
