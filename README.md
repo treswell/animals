@@ -6,3 +6,4 @@ cow
 giraffe  
 lion  
 gecko  
+tiger  
