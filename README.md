@@ -7,3 +7,4 @@ giraffe
 lion  
 gecko  
 tiger  
+rabbit  
