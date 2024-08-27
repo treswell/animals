@@ -8,3 +8,4 @@ lion
 gecko  
 tiger  
 rabbit  
+horse  
