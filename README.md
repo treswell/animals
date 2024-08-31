@@ -12,3 +12,4 @@ horse
 llama  
 ant  
 elephant  
+leopard  
