@@ -18,3 +18,4 @@ mouse
 aardvark  
 penguin  
 hedgehog  
+wolf  
