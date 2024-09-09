@@ -21,3 +21,4 @@ hedgehog
 wolf  
 monkey  
 gorilla  
+chicken  
