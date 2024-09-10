@@ -22,3 +22,4 @@ wolf
 monkey  
 gorilla  
 chicken  
+rhinoceros  
