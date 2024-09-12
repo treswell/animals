@@ -24,3 +24,4 @@ gorilla
 chicken  
 rhinoceros  
 mole  
+bear  
