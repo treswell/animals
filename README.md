@@ -25,3 +25,4 @@ chicken
 rhinoceros  
 mole  
 bear  
+stoat  
