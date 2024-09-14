@@ -26,3 +26,4 @@ rhinoceros
 mole  
 bear  
 stoat  
+zebra  
