@@ -28,3 +28,4 @@ bear
 stoat  
 zebra  
 hippo  
+squirrel  
