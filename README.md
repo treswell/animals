@@ -29,3 +29,4 @@ stoat
 zebra  
 hippo  
 squirrel  
+koala  
