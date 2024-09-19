@@ -30,3 +30,4 @@ zebra
 hippo  
 squirrel  
 koala  
+otter  
