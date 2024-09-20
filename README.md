@@ -31,3 +31,4 @@ hippo
 squirrel  
 koala  
 otter  
+tamarin  
