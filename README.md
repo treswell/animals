@@ -28,6 +28,7 @@ bear
 stoat  
 zebra  
 hippo  
+panda  
 squirrel  
 koala  
 otter  
