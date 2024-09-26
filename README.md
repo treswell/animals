@@ -36,3 +36,4 @@ tamarin
 alpaca  
 kangaroo  
 deer  
+hampster  
