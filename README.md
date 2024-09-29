@@ -38,3 +38,4 @@ kangaroo
 deer  
 hampster  
 bat  
+platypus  
