@@ -40,3 +40,4 @@ hampster
 bat  
 platypus  
 gopher  
+cheetah  
