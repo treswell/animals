@@ -41,3 +41,4 @@ bat
 platypus  
 gopher  
 cheetah  
+stoat  
