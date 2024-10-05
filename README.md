@@ -43,3 +43,4 @@ gopher
 cheetah  
 stoat   
 gerbil  
+capybara  
