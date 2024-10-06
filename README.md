@@ -44,3 +44,4 @@ cheetah
 stoat   
 gerbil  
 capybara  
+skunk  
