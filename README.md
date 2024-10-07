@@ -45,3 +45,4 @@ stoat
 gerbil  
 capybara  
 skunk  
+wallaby  
