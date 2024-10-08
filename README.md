@@ -46,3 +46,4 @@ gerbil
 capybara  
 skunk  
 wallaby  
+chinchilla  
