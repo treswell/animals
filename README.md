@@ -47,3 +47,4 @@ capybara
 skunk  
 wallaby  
 chinchilla  
+tarsier  
