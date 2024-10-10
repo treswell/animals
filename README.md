@@ -48,3 +48,4 @@ skunk
 wallaby  
 chinchilla  
 tarsier  
+numbat  
