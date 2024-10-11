@@ -49,3 +49,4 @@ wallaby
 chinchilla  
 tarsier  
 numbat  
+fossa  
