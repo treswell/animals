@@ -50,3 +50,4 @@ chinchilla
 tarsier  
 numbat  
 fossa  
+lemur  
