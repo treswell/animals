@@ -52,3 +52,4 @@ numbat
 fossa  
 lemur  
 saola  
+colugo  
