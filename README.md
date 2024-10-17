@@ -53,4 +53,5 @@ fossa
 lemur  
 saola  
 colugo  
-Babirusa  
+babirusa  
+hyrax  
