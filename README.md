@@ -65,3 +65,4 @@ zorilla
 kinkajou  
 falanouc  
 gundi  
+kusimanse  
