@@ -66,3 +66,4 @@ kinkajou
 falanouc  
 gundi  
 kusimanse  
+aardwolf  
