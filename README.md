@@ -69,3 +69,4 @@ kusimanse
 aardwolf  
 warthog  
 raccoon  
+diademed  
