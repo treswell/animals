@@ -71,3 +71,4 @@ warthog
 raccoon  
 diademed  
 quokka  
+numbat  
