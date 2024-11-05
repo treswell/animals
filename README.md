@@ -57,7 +57,7 @@ babirusa
 hyrax  
 okapi  
 quokka  
-solendon  
+solenodon  
 bilby  
 binturong  
 antelope  
