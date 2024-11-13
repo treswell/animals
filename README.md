@@ -74,3 +74,4 @@ quokka
 quoll  
 olingo  
 potto  
+sugar glider  
