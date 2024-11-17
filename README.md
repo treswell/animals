@@ -75,3 +75,4 @@ quoll
 olingo  
 potto  
 sugar glider  
+cuscus  
