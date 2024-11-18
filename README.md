@@ -76,3 +76,4 @@ olingo
 potto  
 sugar glider  
 cuscus  
+armadillo  
