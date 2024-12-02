@@ -82,3 +82,4 @@ mongoose
 thylacine  
 crocodile  
 aligator  
+lizard  
