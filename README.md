@@ -71,7 +71,7 @@ warthog
 raccoon  
 diademed  
 quokka  
-quoll  
+quoll   
 olingo  
 potto  
 sugar glider  
